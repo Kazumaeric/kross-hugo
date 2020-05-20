@@ -2,7 +2,7 @@ baseURL = "https://zackaz.work"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "郭書銘 | 線上個人履歷"
+title = "Test"
 [[menu.main]]
 URL = "about"
 name = "About"
