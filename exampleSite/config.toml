@@ -1,5 +1,5 @@
 baseURL = "https://zackaz.work"
-languageCode = "zh-tw"
+languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "郭書銘 | 線上個人履歷"
