@@ -1,5 +1,5 @@
 baseURL = "https://zackaz.work"
-languageCode = "en-us"
+languageCode = "zh-TW"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Test"
