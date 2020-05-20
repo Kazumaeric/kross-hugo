@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = ""
 author = "Zackaz Kuo"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "zackaz@futurgata.com"
-google_analytics_id = ""
-home = "Home"
+google_analytics_id = "UA-167211425-1"
+home = "郭書銘 | 網站履歷"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "0910668696"
 theme_color = "#41228e"
 [params.contact]
 enable = true
