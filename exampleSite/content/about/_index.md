@@ -2,7 +2,7 @@
 title: About
 description: 關於一個UI 設計師的小小故事。
 author_image: images/about/author.jpg
-author_signature: images/about/signature.jpg
+author_signature: images/about/signature.png
 
 ---
 您好，我叫郭書銘，也可以叫我Zack。
