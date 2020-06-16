@@ -5,19 +5,19 @@ theme = "kross-hugo"
 title = "Futurgata 未來氏型"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "關於我"
 weight = 1
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
-weight = 3
+name = "作品集"
+weight = "2"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = "3"
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "聯絡我"
 weight = 4
 [params]
 address = ""
@@ -26,7 +26,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 description = "您好，很高興來到我的網站，我是一個UI/UX Designer，偶爾畫些插畫，希望您會喜歡我的作品。"
 email = "zackaz@futurgata.com"
 google_analytics_id = "UA-167211425-1"
-home = "郭書銘 | 網站履歷"
+home = "網站履歷"
 logo = "images/logo_20201616_dark.png"
 phone = "0910668696"
 social = []
