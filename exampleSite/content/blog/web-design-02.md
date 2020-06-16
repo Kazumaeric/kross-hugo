@@ -25,7 +25,7 @@ title = "Web Design: 02"
 
 改版前，無RWD：
 
-![](/images/web_kje_001-1.jpg)
+![](/images/web_kje_001.jpg)
 
 2018年，因會員功能亟需優化，針對各部門需求進行匯整，與協力廠商針對己方需求進行溝通協調並報價。
 
