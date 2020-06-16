@@ -16,3 +16,4 @@ fields:
   label: description
 pages:
 - exampleSite/content/blog/web-design-01.md
+- exampleSite/content/blog/web-design-02.md
