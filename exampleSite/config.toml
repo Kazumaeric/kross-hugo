@@ -4,21 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Futurgata 未來氏型"
 [[menu.main]]
-URL = "about"
-name = "關於我"
-weight = 1
+URL = "contact"
+name = "聯絡我"
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "作品集"
-weight = "2"
+weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = "3"
-[[menu.main]]
-URL = "contact"
-name = "聯絡我"
-weight = 4
+URL = "about"
+name = "關於我"
+weight = 1
 [params]
 address = ""
 author = "Zackaz Kuo"
