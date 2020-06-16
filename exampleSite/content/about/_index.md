@@ -1,12 +1,24 @@
 ---
 title: About
-description: This is meta description.
+description: 關於一個UI 設計師的小小故事。
 author_image: images/about/author.jpg
 author_signature: ''
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+您好，我叫郭書銘，也可以叫我Zack。
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+1986年生，畢業自中國文化大學中文系文學組。
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+積極熱情面對困難，冷靜思考分析問題，嘗試尋找最佳解。
+
+曾在知音文創擔任紙膠帶印刷專員，熟練一部分完整流程，製作膠版、目測調配PANTONE色票油墨、膠版上機、調版印製、切條。切條前的上膠以及切條後的包裝分別各由另一組人員進行。
+
+曾在普羅米修斯藝術團隊擔任企劃發想與執行，掌握了內外溝通與行銷宣傳的初步技巧。
+
+近期，曾在揆眾展覽擔任四年的網站工程師，負責每一次展覽檔期的完整建站流程，如系統功能需求規劃、UI設計風格走向、使用者動線討論、與各部門協調，以及上線維護、調整CSS與PHP原始碼、協助優化網站 UI，並透過GOOGLE流量工具針對 SEO的調整，爭取每一個檔期上線的自然搜尋排名。
+
+相關關鍵字都能迅速爬上第一位，並在後續針對排名變動進行網站內容的調整，上線網站的預約看展率及報到率都有顯著的提升，約20%\~30%不等。
+
+由於展覽檔期多且日期相近，需要適當的時間控管並即時因應意外狀況進行決策。
+
+因涉及的領域較多，在自我年度復盤後，目前想收攏範圍在UI、平面插畫設計這塊，持續追求並精進。
