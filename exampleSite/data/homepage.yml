@@ -33,13 +33,13 @@ experience:
     company: 知音文創股份有限公司
     duration: 2012年12月 - 2013年11月
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: 企劃專員
+    company: 普羅米修斯有限公司
+    duration: 2014年1月 - 2015年2月
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: 網站UI工程師
+    company: 揆眾展覽股份有限公司
+    duration: 2015年4月 - 2019年10月
 education:
   enable: true
   title: Education
