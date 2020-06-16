@@ -1,7 +1,7 @@
 +++
 date = 2020-06-01T04:00:00Z
 description = "揆眾展覽"
-image = "/images/portfolio/web_kje.png"
+image = "/images/1592308679511.jpg"
 title = "Web Design: 02"
 
 +++
@@ -11,7 +11,7 @@ title = "Web Design: 02"
 
 針對各展風格進行設計製作，如下圖部分類型：
 
-![](/images/portfolio/web_kje_03.png)
+![](/images/web_kje_003.png)
 
 因會展業務特殊，跨越各產業，故需依該產業特性進行調整。
 
@@ -25,7 +25,7 @@ title = "Web Design: 02"
 
 改版前，無RWD：
 
-![](/images/web_kje_001.jpg)
+![](/images/web_kje_001-1.jpg)
 
 2018年，因會員功能亟需優化，針對各部門需求進行匯整，與協力廠商針對己方需求進行溝通協調並報價。
 
