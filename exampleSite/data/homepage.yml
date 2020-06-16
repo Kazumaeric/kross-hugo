@@ -42,20 +42,14 @@ experience:
     duration: 2015年4月 - 2019年10月
 education:
   enable: true
-  title: Education
+  title: 學習經歷
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: 中國文學系
+    year: "2012"
+    academy: 中國文化大學
+  - title: 智慧媒體開發養成班
+    year: "2014"
+    academy: 財團法人資訊工業策進會
 service:
   enable: true
   title: Services
