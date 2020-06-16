@@ -11,7 +11,7 @@ work_process:
     content: 當條件達到一定程度便開始進行設計，中間若有疑點則詢問協調，按照規劃一步一步安排，連同可能發生的狀況也考慮其中。
   - title: 結案
     icon: images/icons/print.png
-    content: 當成品確定過審後，後續思<br>考並總結此專案其中的不足，試圖讓它更好。
+    content: 當成品確定過審後，後續思考並總結此專案其中的不足，試圖讓它更好。
 team:
   enable: false
   title: My Team
