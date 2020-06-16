@@ -15,11 +15,11 @@ item:
   project_url: https://www.kje.com.tw/
   categories:
   - 網頁設計
-- title: Portfolio Item
-  image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
+- title: 幸福金龍鍋
+  image: images/portfolio/web_jing_01.png
+  project_url: https://zackaz.work/blog/%E9%87%91%E9%BE%8D%E9%8D%8B%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/
   categories:
-  - illustration
+  - 網頁設計
 - title: Portfolio Item
   image: images/portfolio/item-5.png
   project_url: "#"
