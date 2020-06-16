@@ -1,30 +1,5 @@
 ---
 item:
-- title: 招牌設計 - 鼎爵牙醫
-  image: images/portfolio/design_03.png
-  project_url: "#"
-  categories:
-  - 平面設計
-- title: 招牌設計 - 鼎爵牙醫
-  image: images/portfolio/design_02.png
-  project_url: "#"
-  categories:
-  - 平面設計
-- title: 名片設計 - 鼎爵牙醫
-  image: images/portfolio/design_01.png
-  project_url: "#"
-  categories:
-  - 平面設計
-- title: 手機殼插畫 - 太空
-  image: images/portfolio/illustration_09.png
-  project_url: "#"
-  categories:
-  - 插畫
-- title: 手機殼插畫 - 熊貓
-  image: images/portfolio/illustration_08.png
-  project_url: "#"
-  categories:
-  - 插畫
 - title: 揆眾官方網站
   image: images/portfolio/web_kje.png
   project_url: https://www.kje.com.tw/
@@ -35,16 +10,46 @@ item:
   project_url: https://www.kje.com.tw/exhibition/
   categories:
   - 網頁設計
+- title: 招牌設計 - 鼎爵牙醫
+  image: images/portfolio/design_03.png
+  project_url: "#"
+  categories:
+  - 平面設計
 - title: 揆眾手機版網站
   image: images/portfolio/web_kje_02.png
   project_url: https://www.kje.com.tw/
   categories:
   - 網頁設計
+- title: 手機殼插畫 - 太空
+  image: images/portfolio/illustration_09.png
+  project_url: "#"
+  categories:
+  - 插畫
 - title: 幸福金龍鍋
   image: images/portfolio/web_jing_01.png
   project_url: https://zackaz.work/blog/%E9%87%91%E9%BE%8D%E9%8D%8B%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/
   categories:
   - 網頁設計
+- title: 講義封面
+  project_url: "#"
+  categories:
+  - 插畫
+  image: images/portfolio/illustration_07.png
+- title: 招牌設計 - 鼎爵牙醫
+  image: images/portfolio/design_02.png
+  project_url: "#"
+  categories:
+  - 平面設計
+- title: 名片設計 - 鼎爵牙醫
+  image: images/portfolio/design_01.png
+  project_url: "#"
+  categories:
+  - 平面設計
+- title: 手機殼插畫 - 熊貓
+  image: images/portfolio/illustration_08.png
+  project_url: "#"
+  categories:
+  - 插畫
 - title: 角色系列設計 - 甜點
   image: images/portfolio/illustration_01.png
   project_url: "#"
@@ -75,11 +80,6 @@ item:
   project_url: "#"
   categories:
   - 插畫
-- title: 講義封面
-  project_url: "#"
-  categories:
-  - 插畫
-  image: images/portfolio/illustration_07.png
 clients_logo_slider:
   enable: false
   title: My Clients
