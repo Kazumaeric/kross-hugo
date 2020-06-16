@@ -1,5 +1,15 @@
 ---
 item:
+- title: 手機殼插畫 - 太空
+  image: images/portfolio/illustration_09.png
+  project_url: "#"
+  categories:
+  - 插畫
+- title: 手機殼插畫 - 熊貓
+  image: images/portfolio/illustration_08.png
+  project_url: "#"
+  categories:
+  - 插畫
 - title: 揆眾官方網站
   image: images/portfolio/web_kje.png
   project_url: https://www.kje.com.tw/
@@ -30,27 +40,31 @@ item:
   project_url: "#"
   categories:
   - 插畫
-- title: Portfolio Item
-  image: images/portfolio/item-6.png
+- title: 角色系列設計
+  image: images/portfolio/illustration_03.png
   project_url: "#"
   categories:
-  - design
-- title: Portfolio Item
-  image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  categories:
-  - branding
-- title: Portfolio Item
-  image: images/portfolio/item-3.png
+  - 插畫
+- title: 平面插畫
+  image: images/portfolio/illustration_04.png
   project_url: "#"
   categories:
-  - illustration
-  - development
-- title: Portfolio Item
-  image: images/portfolio/item-7.png
-  project_url: http://examplesite.com
+  - 插畫
+- title: 平面插畫
+  image: images/portfolio/illustration_05.png
+  project_url: "#"
   categories:
-  - branding
+  - 插畫
+- title: 平面插畫
+  image: images/portfolio/illustration_06.png
+  project_url: "#"
+  categories:
+  - 插畫
+- title: 講義封面
+  project_url: "#"
+  categories:
+  - 插畫
+  image: images/portfolio/illustration_07.png
 clients_logo_slider:
   enable: false
   title: My Clients
