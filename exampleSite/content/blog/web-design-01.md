@@ -1,7 +1,6 @@
 +++
 date = 2020-06-16T04:00:00Z
 description = "協助幸福堂新建置網站進行設計"
-draft = true
 image = "/images/about/1592285516108.jpg"
 title = "Web Design: 01"
 
