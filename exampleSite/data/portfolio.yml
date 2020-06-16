@@ -10,11 +10,11 @@ item:
   project_url: https://www.kje.com.tw/exhibition/
   categories:
   - 網頁設計
-- title: Portfolio Item
-  image: images/portfolio/item-2.png
-  project_url: "#"
+- title: 揆眾手機版網站
+  image: images/portfolio/web_kje_02
+  project_url: https://www.kje.com.tw/
   categories:
-  - branding
+  - 網頁設計
 - title: Portfolio Item
   image: images/portfolio/item-3.png
   project_url: http://examplesite.com
