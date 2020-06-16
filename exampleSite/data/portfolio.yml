@@ -1,12 +1,13 @@
 ---
 item:
-- title: ''
-  image: ''
-  project_url: ''
-  categories: ''
 - title: 揆眾官方網站
   image: images/portfolio/web_kje.png
   project_url: https://www.kje.com.tw/
+  categories:
+  - 網頁設計
+- title: 揆眾各展網站
+  image: images/portfolio/web_kje_02.png
+  project_url: https://www.kje.com.tw/exhibition/
   categories:
   - 網頁設計
 - title: Portfolio Item
