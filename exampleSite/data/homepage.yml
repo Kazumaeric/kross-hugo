@@ -13,16 +13,16 @@ skill:
   title: Skills
   item:
   - title: Web Design
-    progress: ''
+    progress: 80%
     color: "#fdb157"
   - title: UI UX
-    progress: ''
+    progress: 80%
     color: "#9473e6"
   - title: Illustration
-    progress: ''
+    progress: 80%
     color: "#bdecf6"
   - title: Graphic Design
-    progress: ''
+    progress: 80%
     color: "#ffbcaa"
 experience:
   enable: true
