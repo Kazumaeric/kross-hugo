@@ -25,12 +25,10 @@ item:
   project_url: "#"
   categories:
   - 插畫
-- title: Portfolio Item
-  image: images/portfolio/item-8.png
-  project_url: http://examplesite.com
-  categories:
-  - illustration
-  - development
+- title: 角色系列設計 - 四季
+  image: images/portfolio/illustration_02.png
+  project_url: "#"
+  categories: []
 - title: Portfolio Item
   image: images/portfolio/item-6.png
   project_url: "#"
