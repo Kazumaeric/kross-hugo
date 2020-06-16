@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Futurgata 未來氏型"
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
