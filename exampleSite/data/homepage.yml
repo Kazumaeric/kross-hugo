@@ -26,12 +26,12 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: Experience
+  title: 經歷
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: 印刷技師
+    company: 知音文創股份有限公司
+    duration: 2012年12月 - 2013年11月
   - logo: images/experience/icon-2.png
     title: UX & UI Designer
     company: AUGMEDIX
