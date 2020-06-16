@@ -8,10 +8,6 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
@@ -19,6 +15,10 @@ weight = 3
 URL = "blog"
 name = "Blog"
 weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = ""
 author = "Zackaz Kuo"
@@ -29,6 +29,7 @@ google_analytics_id = "UA-167211425-1"
 home = "郭書銘 | 網站履歷"
 logo = "images/logo_20201616_dark.png"
 phone = "0910668696"
+social = []
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -50,15 +51,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
