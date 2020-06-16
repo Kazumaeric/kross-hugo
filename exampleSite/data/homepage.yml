@@ -3,14 +3,13 @@ banner:
   title: 您好 <br> 我是郭書銘 <br> 是個 Web Designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: |-
+    1986年生，新竹人，畢業於中國文化大學中文系。
+    我有四年網站設計經驗，由於職業特性，設計內容跨足各產業。
+    擅長討論、評估並解決問題內容，進而完成任務。
   button:
     enable: true
-    label: know more
+    label: 更多詳細經歷
     URL: about
 skill:
   enable: true
