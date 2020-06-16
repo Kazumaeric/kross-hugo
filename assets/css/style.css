@@ -738,11 +738,11 @@ blockquote {
 }
 
 .content * {
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 .content p img {
-  width:100%;
+  width: 100%;
 }
 
 .content strong {
