@@ -2,7 +2,7 @@ baseURL = "https://zackaz.work"
 languageCode = "zh-TW"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Test"
+title = "Futurgata 未來氏型"
 [[menu.main]]
 URL = "about"
 name = "About"
