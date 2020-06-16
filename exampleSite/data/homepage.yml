@@ -51,7 +51,7 @@ education:
     year: "2014"
     academy: 財團法人資訊工業策進會
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -74,7 +74,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
