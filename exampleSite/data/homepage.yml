@@ -13,16 +13,16 @@ skill:
   title: Skills
   item:
   - title: Web Design
-    progress: 90%
+    progress: ''
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: UI UX
+    progress: ''
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Illustration
+    progress: ''
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Graphic Design
+    progress: ''
     color: "#ffbcaa"
 experience:
   enable: true
