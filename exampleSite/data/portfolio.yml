@@ -28,7 +28,8 @@ item:
 - title: 角色系列設計 - 四季
   image: images/portfolio/illustration_02.png
   project_url: "#"
-  categories: []
+  categories:
+  - 插畫
 - title: Portfolio Item
   image: images/portfolio/item-6.png
   project_url: "#"
