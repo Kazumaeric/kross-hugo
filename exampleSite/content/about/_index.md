@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 description: 關於一個UI 設計師的小小故事。
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
