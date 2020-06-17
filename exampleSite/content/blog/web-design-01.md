@@ -19,7 +19,7 @@ SEO優化：
 
 幸福金龍鍋一週內爬升至自然搜尋第一。 
 
-[幸福金龍鍋](https://www.jinglongguo.com.tw/ "幸福金龍鍋")RWD**網站完整製作**
+[幸福金龍鍋](https://www.jinglongguo.com.tw/ "幸福金龍鍋")RWD網站完整製作
 
 需求：負責人強調需要大氣、浮誇、精緻、豪華，古早味。
 
